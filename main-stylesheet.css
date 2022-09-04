@@ -1,0 +1,66 @@
+body {
+    background-color: #C0C0C0;
+    padding: 0px;
+    margin: 0px;
+}
+
+#HyperdriveLogo{
+    width: 230px;
+    height: 150px;
+    float: left;
+    margin-left: 20px;
+}
+
+@font-face {
+    font-family: Armata-Font;
+    src: url(Fonts/armata/Armata-Regular.ttf);
+}
+
+#WelcomeMessage{
+    font-family: Armata-Font;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-right: 80px;
+}
+
+#HomeButton{
+    width: 951px;
+    height: 80px;
+    margin-top: 8px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    float: left;
+    border-top: white;
+    border-bottom: white;
+}
+
+#OurProductsButton{
+    width: 951px;
+    height: 80px;
+    margin-top: 8px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    border-left: black;
+    border-top: white;
+    border-bottom: white;
+    border-right: white;
+}
+
+#Page-Text{
+    font-family: Armata-Font;
+    font-size: 23px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#Title{
+    font-family: Armata-Font;
+    font-size: 23px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    text-decoration: underline;
+}

@@ -1,0 +1,128 @@
+.HomeButton-Text{
+    color: #1DA6FE;
+}
+
+#Arrow{
+    width: 80px;
+    height: 90px;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+.Team-Names{
+    font-family: Armata-Font;
+    font-size: 23px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#Keaton{
+    position: absolute;
+    left: 150px;
+    top: 1032px;
+    text-align: center;
+}
+
+#Florent-Image{
+    position: absolute;
+    left: 290px;
+    width: 155px;
+    height: 150px;
+}
+
+#Florent{
+    position: absolute;
+    left: 425px;
+    top: 1033px;
+    text-align: center;
+}
+
+#Tori-Image{
+    position: absolute;
+    left: 580px;
+    top: 1035px;
+    width: 155px;
+    height: 150px;
+}
+
+#Tori{
+    position: absolute;
+    left: 730px;
+    top: 1033px;
+    text-align: center;
+}
+
+#Amy-Image{
+    position: absolute;
+    left: 940px;
+    top: 1035px;
+    width: 155px;
+    height: 160px;
+}
+
+#Amy{
+    position: absolute;
+    left: 1090px;
+    top: 1033px;
+    text-align: center;
+}
+
+#Rachael-Image{
+    position: absolute;
+    left: 10px;
+    top: 1230px;
+    width: 147px;
+    height: 147px;
+}
+
+#Rachael{
+    position: absolute;
+    left: 140px;
+    top: 1223px;
+    text-align: center;
+}
+
+#Diomedes-Image{
+    position: absolute;
+    left: 285px;
+    top: 1220px;
+    width: 155px;
+    height: 150px;
+}
+
+#Diomedes{
+    position: absolute;
+    left: 425px;
+    top: 1220px;
+    text-align: center;
+}
+
+#Menna-Image{
+    position: absolute;
+    left: 580px;
+    top: 1220px;
+    width: 155px;
+    height: 150px;
+}
+
+#Menna{
+    position: absolute;
+    left: 730px;
+    top: 1220px;
+    text-align: center;
+}
+
+#Melo-Image{
+    position: absolute;
+    left: 940px;
+    top: 1210px;
+    width: 155px;
+    height: 160px;
+}
+
+#Melo{
+    position: absolute;
+    left: 1090px;
+    top: 1220px;
+    text-align: center;
+}

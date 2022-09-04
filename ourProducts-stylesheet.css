@@ -1,0 +1,106 @@
+.OurProductsButton-Text{
+    color: #1DA6FE;
+}
+
+#Cyber-Champion-Image{
+    width: 1903px;
+    height: 750px;
+    position: relative;
+}
+
+@font-face {
+    font-family: CyberChampionAdvert;
+    src: url(/Fonts/righteous/Righteous-Regular.ttf);
+}
+
+#Cyber-Champion-Title{
+    text-align: right;
+    position: absolute;
+    top: 190px;
+    left: 1170px;
+    color: black;
+    font-size: 140px;
+    font-family: CyberChampionAdvert;
+}
+
+#Download-Button{
+    position: absolute;
+    background-color: #1DA6FE;
+    top: 710px;
+    left: 1420px;
+    font-size: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    font-family: CyberChampionAdvert;
+}
+
+#AvailableOnWindows{
+    position: absolute;
+    font-family: CyberChampionAdvert;
+    font-size: 35px;
+    top: 835px;
+    left: 1412px;
+}
+
+#InPartnersWith{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    top: 895px;
+    left: 1440px;
+}
+
+#DurhamConstabulary{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    top: 945px;
+    left: 1450px;
+}
+
+#DurhamConstabulary-Logo{
+    position: absolute;
+    top: 850px;
+    left: 1220px;
+}
+
+@font-face {
+    font-family: Armata-Font;
+    src: url(Fonts/armata/Armata-Regular.ttf);
+}
+
+#Feedback-Survey-Button{
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: Armata-Font;
+    font-weight: bold;
+    background-color: #1DA6FE;
+    border: none;
+}
+
+#Modes{
+    font-family: Armata-Font;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 23px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+#Example-Question-Image{
+    margin-left: 10px;
+}
+
+#Example-Question{
+    font-weight: bold;
+    font-family: Armata-Font;
+    font-size: 23px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
